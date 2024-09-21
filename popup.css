@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
+    width: 250px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #4CAF50;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #summary {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #555;
+    max-height: 150px;
+    overflow-y: auto;
+  }
+  
+  /* For empty summary text */
+  #summary:empty::before {
+    content: "Click the button to get the summary.";
+    color: #aaa;
+  }
+  
