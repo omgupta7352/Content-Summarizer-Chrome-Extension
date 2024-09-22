@@ -1,13 +1,18 @@
-Content Summarizer Chrome Extension
+#Content Summarizer Chrome Extension
+
 Content Summarizer is a simple Chrome extension that allows users to quickly summarize the content of a webpage by extracting the first few sentences of the text. The extension is lightweight, easy to use, and can be further enhanced to support more complex summarization techniques.
 
-Features
-Summarizes content from any webpage.
-Provides a clean and intuitive popup interface.
-Responsive and user-friendly design.
-Summarizes the first 5 sentences of the webpage's text.
-No icons required for the extension.
-Installation and Setup
+##Features
+
+1. Summarizes content from any webpage.
+2. Provides a clean and intuitive popup interface.
+3. Responsive and user-friendly design.
+4. Summarizes the first 5 sentences of the webpage's text.
+5. No icons required for the extension.
+
+
+##Installation and Setup
+
 Step 1: Clone the repository
 bash
 Copy code
