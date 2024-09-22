@@ -13,3 +13,22 @@ Content Summarizer is a simple Chrome extension that allows users to quickly sum
 - Responsive and user-friendly design.
 - Summarizes the first 5 sentences of the webpage's text.
 - No icons required for the extension.
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+   
+    ```
+
+2. Load the extension in Chrome
+
+    ```bash
+    cd Blogsphere
+    ```
+
+3. Using the extension in Chrome
