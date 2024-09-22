@@ -27,8 +27,10 @@ To run this project locally, follow these steps:
 
 2. Load the extension in Chrome
 
-    ```bash
-    cd Blogsphere
-    ```
+- Open Chrome and go to ``` chrome://extensions/ ```.
+- Enable Developer mode in the top-right corner.
+- Responsive and user-friendly design.
+- Summarizes the first 5 sentences of the webpage's text.
+- No icons required for the extension.
 
 3. Using the extension in Chrome
