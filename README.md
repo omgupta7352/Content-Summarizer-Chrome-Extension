@@ -1,7 +1,7 @@
 # Content Summarizer Chrome Extension
 
-![WEATHER APP](ime1.png)
-![](ime2.png)
+![Content Summarizer](summary1.png)
+![](summary2.png)
 
 Content Summarizer is a simple Chrome extension that allows users to quickly summarize the content of a webpage by extracting the first few sentences of the text. The extension is lightweight, easy to use, and can be further enhanced to support more complex summarization techniques.
 
