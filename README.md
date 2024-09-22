@@ -29,8 +29,12 @@ To run this project locally, follow these steps:
 
 - Open Chrome and go to ``` chrome://extensions/ ```.
 - Enable Developer mode in the top-right corner.
-- Responsive and user-friendly design.
-- Summarizes the first 5 sentences of the webpage's text.
-- No icons required for the extension.
+- Click on Load unpacked and select the folder containing the extension files ```(content-summarizer)```.
+- The extension will now be added to your browser's toolbar.
 
 3. Using the extension in Chrome
+
+- Navigate to any webpage.
+- Click the Content Summarizer extension icon (or use the Extensions menu to find it).
+- Click the Summarize Content button in the popup.
+- The extension will display a summary of the first few sentences from the page's text.
